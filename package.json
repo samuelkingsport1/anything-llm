@@ -6,7 +6,7 @@
   "author": "Timothy Carambat (Mintplex Labs)",
   "license": "MIT",
   "engines": {
-    "node": ">=18"
+    "node": "17.x"
   },
   "scripts": {
     "lint": "cd server && yarn lint && cd .. && cd frontend && yarn lint",
