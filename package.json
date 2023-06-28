@@ -2,7 +2,7 @@
   "name": "anything-llm",
   "version": "0.0.1-beta",
   "description": "Turn anything into a chattable document through a simple UI",
-  "main": "index.js",
+  "main": "./server/index.js",
   "author": "Timothy Carambat (Mintplex Labs)",
   "license": "MIT",
   "engines": {
